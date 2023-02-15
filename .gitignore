@@ -1,0 +1,5 @@
+## Ignore Files
+Lib
+Scripts
+__pycache__
+Include
